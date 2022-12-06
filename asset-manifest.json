@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/star-lookup/static/css/main.31c38994.css",
+    "main.js": "/star-lookup/static/js/main.a45ca3cf.js",
+    "static/js/787.f11b81b5.chunk.js": "/star-lookup/static/js/787.f11b81b5.chunk.js",
+    "index.html": "/star-lookup/index.html",
+    "main.31c38994.css.map": "/star-lookup/static/css/main.31c38994.css.map",
+    "main.a45ca3cf.js.map": "/star-lookup/static/js/main.a45ca3cf.js.map",
+    "787.f11b81b5.chunk.js.map": "/star-lookup/static/js/787.f11b81b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c38994.css",
+    "static/js/main.a45ca3cf.js"
+  ]
+}
