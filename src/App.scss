@@ -1,0 +1,33 @@
+.App {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 720px;
+
+  .search-container {
+    width: 100%;
+    padding: 16px;
+    margin-top: 12%;
+    flex-direction: column;
+    .address-container {
+      display: flex;
+    }
+
+    .loading-container {
+      width: 100%;
+      margin-top: 6px;
+    }
+  }
+
+  .starnames-container {
+    display: flex;
+    width: 100%;
+  }
+
+  .not-found-container {
+    margin-top: 2%;
+  }
+}
