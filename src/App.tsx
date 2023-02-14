@@ -16,7 +16,7 @@ import { Account, StarnameQueryClient } from "@iov/query-starnames";
 
 function App() {
   const client = useMemo(() => {
-    return new StarnameQueryClient("https://api.iov-mainnet-ibc.iov.one");
+    return new StarnameQueryClient("https://api.starname.cosmos.iov.one");
   }, []);
   const [loading, setLoading] = React.useState(false);
   const [proxyAddress, setProxyAddress] = React.useState("");
